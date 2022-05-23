@@ -2,6 +2,7 @@
 
 - 💻 Programo na área do front-end
 - ☕ Estudando Typescript
+- Contato: victorbellini000@gmail.com
 
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VitimCuxtela&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
