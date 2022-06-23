@@ -5,7 +5,7 @@
 - Contato: victorbellini000@gmail.com
 
 <div>
-  <img height="300em" src="https://vignette.wikia.nocookie.net/cyanide-and-happiness-show/images/3/39/Screen_Shot_2015-01-17_at_10.10.38_PM.png/revision/latest?cb=20150118032224"/>
+  <img height="280em" src="https://vignette.wikia.nocookie.net/cyanide-and-happiness-show/images/3/39/Screen_Shot_2015-01-17_at_10.10.38_PM.png/revision/latest?cb=20150118032224"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitimCuxtela&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
